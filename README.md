@@ -42,3 +42,5 @@ $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bas
 Terminal > Preferences > Profiles > (see image below) > Import
 
 ![import profile](./terminal-mac/import-profile.png "import terminal profile - mac os")
+
+4. Select the imported profile in the profile list and click `Default` to make it your default profile
