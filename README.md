@@ -32,3 +32,13 @@ install nvm
 ```sh
 $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
 ```
+
+### MacOS Terminal
+1. download the file at `terminal-mac/profile.terminal`
+
+2. open in your fav editor and rename `WINDOW_TITLE_GOES_HERE` within the file to your preferred window title name
+
+3. import the terminal setting from terminal.
+Terminal > Preferences > Profiles > (see image below) > Import
+
+![import profile](./terminal-mac/import-profile.png "import terminal profile - mac os")
